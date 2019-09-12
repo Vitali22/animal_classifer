@@ -22,4 +22,5 @@ def predict(file):
   elif answer == 2:
     print("pred: Gorila")
 
+
   return answer
